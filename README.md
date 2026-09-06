@@ -15,6 +15,8 @@ A development workspace for a humorous phrase-generator project.
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
